@@ -1,0 +1,24 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 45px;
+    line-height: 45px;
+    background-color: rgb(3, 12, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+li{
+    float:left;
+    border-right: 1px solid #156ee2;
+}
+a{
+    display: block;
+    padding:0 40px;
+    color:#fff;
+    text-decoration: none;
+}
+a:hover,.active a,.active2 a,.active3 a,.active4 a{
+background-color: rgb(6, 189, 189);
+}
+
